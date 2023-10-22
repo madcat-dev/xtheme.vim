@@ -14,3 +14,9 @@ Plug 'madcat-dev/xtheme.vim'
 colorscheme xtheme
 ```
 > You must remove `set termguicolors` for the colorscheme to work correctly
+
+---
+
+## Credits
+
+This extension is inspired by [wal.vim](https://github.com/dylanaraps/wal.vim).
