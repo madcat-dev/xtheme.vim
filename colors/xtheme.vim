@@ -88,8 +88,8 @@ hi! Comment             term=None cterm=None ctermfg=66  ctermbg=None guifg=#5f8
 hi! Constant            term=None cterm=None ctermfg=6   ctermbg=None
 hi! String              term=None cterm=None ctermfg=2   ctermbg=None
 hi! Statement           term=None cterm=None ctermfg=15  ctermbg=None
-hi! Identifier          term=None cterm=None ctermfg=4  ctermbg=None
-hi! Type                term=None cterm=None ctermfg=3  ctermbg=None
+hi! Identifier          term=None cterm=None ctermfg=4   ctermbg=None
+hi! Type                term=None cterm=None ctermfg=3   ctermbg=None
 hi! Character           term=None cterm=None ctermfg=9   ctermbg=None
 hi! Underlined          term=underline cterm=underline   ctermfg=None ctermbg=None
 hi! Ignore              term=None cterm=None ctermfg=8   ctermbg=0
