@@ -93,7 +93,7 @@ hi! Type                term=None cterm=None ctermfg=3   ctermbg=None
 hi! Character           term=None cterm=None ctermfg=9   ctermbg=None
 hi! Underlined          term=underline cterm=underline   ctermfg=None ctermbg=None
 hi! Ignore              term=None cterm=None ctermfg=8   ctermbg=0
-hi! Todo                term=None cterm=None ctermfg=0   ctermbg=7
+hi! Todo                term=None cterm=None ctermfg=15  ctermbg=None
 hi! Error               term=None cterm=None ctermfg=255 ctermbg=1 guifg=#eeeeee
 
 hi! link Number         Constant
